@@ -18,10 +18,5 @@ window.speechSynthesis.speak(speech);
 });
 
 
-// let speech = new SpeechSynthesisUtterance();
-// speech.text = "नमस्ते, आप कैसे हैं?"; // बोलने के लिए टेक्स्ट सेट करें
-// speech.lang = "hi-IN"; // भाषा सेट करें (यहाँ हिंदी)
-// speech.rate = 1; // बोलने की गति (स्पीड)
-// speech.pitch = 1; // आवाज़ की पिच (टोन)
 
-// window.speechSynthesis.speak(speech); // टेक्स्ट को बोलें
+
